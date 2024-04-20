@@ -145,7 +145,7 @@ body {
   background-color: #f967c7 !important;
 }
 .bg-success {
-  background-color: #3a341c !important;
+  background-color: #260a30 !important;
 }
 .bg-info {
   background-color: #320707 !important;
@@ -224,8 +224,8 @@ body {
 }
 .btn-success,
 .btn-success:active {
-  background-color: #3a341c !important;
-  border-color: #3a341c !important;
+  background-color: #260a30 !important;
+  border-color: #260a30 !important;
   color: #ffffff !important;
   box-shadow: none;
 }
@@ -234,15 +234,15 @@ body {
 .btn-success.focus,
 .btn-success.active {
   color: inherit;
-  background-color: #5c532d !important;
-  border-color: #5c532d !important;
+  background-color: #47135a !important;
+  border-color: #47135a !important;
   box-shadow: none;
 }
 .btn-success.disabled,
 .btn-success:disabled {
   color: #ffffff !important;
-  background-color: #5c532d !important;
-  border-color: #5c532d !important;
+  background-color: #47135a !important;
+  border-color: #47135a !important;
 }
 .btn-warning,
 .btn-warning:active {
@@ -398,8 +398,8 @@ body {
 .btn-success-outline,
 .btn-success-outline:active {
   background-color: transparent !important;
-  border-color: #3a341c;
-  color: #3a341c;
+  border-color: #260a30;
+  color: #260a30;
 }
 .btn-success-outline:hover,
 .btn-success-outline:focus,
@@ -413,8 +413,8 @@ body {
 .btn-success-outline.disabled,
 .btn-success-outline:disabled {
   color: #ffffff !important;
-  background-color: #3a341c !important;
-  border-color: #3a341c !important;
+  background-color: #260a30 !important;
+  border-color: #260a30 !important;
 }
 .btn-warning-outline,
 .btn-warning-outline:active {
@@ -507,7 +507,7 @@ body {
   color: #ffd7ef !important;
 }
 .text-success {
-  color: #3a341c !important;
+  color: #260a30 !important;
 }
 .text-info {
   color: #320707 !important;
@@ -613,7 +613,7 @@ a:hover {
 }
 .mbr-plan-header.bg-success .mbr-plan-subtitle,
 .mbr-plan-header.bg-success .mbr-plan-price-desc {
-  color: #c0b27c;
+  color: #deb0ef;
 }
 .mbr-plan-header.bg-info .mbr-plan-subtitle,
 .mbr-plan-header.bg-info .mbr-plan-price-desc {
@@ -1119,6 +1119,8 @@ a {
   }
 }
 .cid-u9ihFXkaKz {
+  padding-top: 6rem;
+  padding-bottom: 3rem;
   background-image: url("../../../assets/images/proyecto-nuevo-1-1920x1080.jpg");
 }
 .cid-u9ihFXkaKz .mbr-fallback-image.disabled {
@@ -1313,7 +1315,7 @@ a {
   }
 }
 .cid-u9hA6OON7D .item-head {
-  background: #232323;
+  background: #260a30;
   padding: 2.25rem;
 }
 @media (min-width: 992px) and (max-width: 1200px) {
@@ -1532,7 +1534,7 @@ a {
 .cid-u9hUB4tXaY {
   padding-top: 2rem;
   padding-bottom: 2rem;
-  background-color: #232323;
+  background-color: #260a30;
 }
 .cid-u9hUB4tXaY .row-links {
   width: 100%;
@@ -2036,7 +2038,7 @@ a {
 .cid-u9hUB4tXaY {
   padding-top: 2rem;
   padding-bottom: 2rem;
-  background-color: #232323;
+  background-color: #260a30;
 }
 .cid-u9hUB4tXaY .row-links {
   width: 100%;
